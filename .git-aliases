@@ -1,4 +1,4 @@
 alias ga='git add'
 alias gc='git commit'
-alias grao='git remote add origin'
+alias gra='git remote add'
 alias gpo='git push origin'
