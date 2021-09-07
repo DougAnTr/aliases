@@ -1,0 +1,6 @@
+# DOCKER ALIASES
+alias dpa='docker ps -a'
+alias dps='docker ps'
+alias drm='docker rm'
+alias di='docker images'
+alias dri='docker rmi'
